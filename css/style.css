@@ -27,7 +27,7 @@
 #header.header-scroll .img__black {
     display: block;
 }
-#header.header-scroll .nav>ul>li>a {
+#header.header-scroll .header__content>a {
     color: black;
 }
 .header__logo {
